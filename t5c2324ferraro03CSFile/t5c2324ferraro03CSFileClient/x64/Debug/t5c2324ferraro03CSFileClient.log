@@ -1,0 +1,3 @@
+﻿  t5c2324ferraro03CSFileClient.cpp
+C:\Users\samuele.ferraro\Documents\tpsit\C++\t5c2324ferraro03CSFile\t5c2324ferraro03CSFileClient\t5c2324ferraro03CSFileClient.cpp(175,7): warning C4101: 'buffer': variabile locale senza riferimenti
+  t5c2324ferraro03CSFileClient.vcxproj -> C:\Users\samuele.ferraro\Documents\tpsit\C++\t5c2324ferraro03CSFile\x64\Debug\t5c2324ferraro03CSFileClient.exe
